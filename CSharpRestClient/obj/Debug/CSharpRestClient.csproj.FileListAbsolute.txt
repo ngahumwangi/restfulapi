@@ -1,0 +1,9 @@
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\bin\Debug\CSharpRestClient.exe.config
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\bin\Debug\CSharpRestClient.exe
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\bin\Debug\CSharpRestClient.pdb
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.csprojResolveAssemblyReference.cache
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.Form1.resources
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.Properties.Resources.resources
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.csproj.GenerateResource.Cache
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.exe
+c:\users\dngah\documents\visual studio 2015\Projects\CSharpRestClient\CSharpRestClient\obj\Debug\CSharpRestClient.pdb
